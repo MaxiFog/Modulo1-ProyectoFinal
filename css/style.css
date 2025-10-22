@@ -35,6 +35,7 @@ button {
 /* Evitar overflow horizontal en dispositivos móviles */
 html,
 body {
+  font-family: Courier;
   max-width: 100vw;
   overflow-x: hidden;
 }
